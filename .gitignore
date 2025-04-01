@@ -1,0 +1,8 @@
+.DS_Store
+
+node_modules
+
+*.sqlite
+*.sqlite3
+
+logs
