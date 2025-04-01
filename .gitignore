@@ -1,8 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.sqlite3
 .DS_Store
+staticfiles/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 node_modules
-
-*.sqlite
-*.sqlite3
 
 logs
